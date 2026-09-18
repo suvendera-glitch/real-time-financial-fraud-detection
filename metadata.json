@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT JARVIS - AI Payment Guardian",
+  "description": "AI-powered financial fraud detection and payment-interception prototype. Detect, Understand, Intercept, Respond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
